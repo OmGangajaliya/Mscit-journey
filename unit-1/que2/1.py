@@ -1,0 +1,10 @@
+a=int(60)
+b=float(60.5050)
+c="Om"
+d=bool(True)
+e=complex(3,5)
+print("Int Data Type : ",a)
+print("Float Data Type : ",b)
+print("String Data Type : ",c)
+print("Boolean Data Type : ",d)
+print("Complex Data Type : ",e)
